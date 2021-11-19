@@ -1,0 +1,8 @@
+{
+  "name": "gostack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuel-cabral/gostack.git",
+  "author": "Samuel Cabral <samuelcabral.mail@gmail.com>",
+  "license": "MIT"
+}
